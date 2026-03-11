@@ -31,6 +31,9 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 > 🌐 Desenvolvimento Web  
 > 📊 Ferramentas Digitais 
 > 🗃️ Banco de Dados  
+  
+> 📝 Desenhos Tecnicos
+> 💡 Eletroeletronica
 
 
 ---
