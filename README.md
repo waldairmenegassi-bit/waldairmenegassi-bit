@@ -47,3 +47,5 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 💼 GitHub: https://github.com/waldaotto ------------
 📧 E-mail: josimar.menegat@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7
+
+---
