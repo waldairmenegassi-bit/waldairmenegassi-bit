@@ -17,6 +17,9 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
 
 ---
 
@@ -33,8 +36,8 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Nome do Projeto]  
-📌 Projeto 2 – [Nome do Projeto]  
-📌 Projeto 3 – [Nome do Projeto]  
+📌 Projeto 1 – [Loja Mecanica](https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/mecanica-shop)  
+📌 Projeto 2 – [Atividades Python](https://github.com/waldairmenegassi-bit/programacao/tree/63a582ff965c7dabfd69ac0328e35506fce1e401/atividades-python)  
+📌 Projeto 3 – [Modelo de MVC](https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/MVC%20Example)  
 
 ---
