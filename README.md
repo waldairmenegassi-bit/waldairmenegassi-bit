@@ -1,6 +1,7 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou WALDAIR
 
-🎓 Estudante da Aprendizagem Industrial  -------------------
+🎓 Estudante da Aprendizagem Industrial de Desinvolvimento de Sistemas da Informação
+🎓 Estudante do Técnico de Automação Industrial
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
@@ -8,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
-Meu objetivo é -------------------------
+Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez mais na área.
 ---
 
 ## 🛠 Tecnologias que estou aprendendo
