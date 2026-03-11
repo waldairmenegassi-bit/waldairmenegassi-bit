@@ -25,15 +25,15 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 
 ## 📚 O que estou estudando
 
-> 🧠 Lógica de Programação  
-> 🐍 Programação em Python  
-> 🐘 Programação em PHP
+> 🧠 Lógica de Programação   
+> 🐍 Programação em Python   
+> 🐘 Programação em PHP  
 > 🌐 Desenvolvimento Web  
-> 📊 Ferramentas Digitais 
-> 🗃️ Banco de Dados  
+> 📊 Ferramentas Digitais   
+> 🗃️ Banco de Dados   
   
 > 📝 Desenhos Tecnicos  
-> 💡 Eletroeletronica 
+> 💡 Eletroeletronica  
 
 
 ---
