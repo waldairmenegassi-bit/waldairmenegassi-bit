@@ -41,3 +41,9 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 📌 Projeto 3 – [Modelo de MVC](https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/MVC%20Example)  
 
 ---
+
+## 📫 Contato
+
+💼 GitHub: https://github.com/waldaotto
+📧 E-mail: josimar.menegat@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7
