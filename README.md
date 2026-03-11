@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou WALDAIR
 
-🎓 Estudante da Aprendizagem Industrial de Desinvolvimento de Sistemas da Informação
-🎓 Estudante do Técnico de Automação Industrial
+🎓 Estudante da Aprendizagem Industrial de Desinvolvimento de Sistemas da Informação  
+🎓 Estudante do Técnico de Automação Industrial  
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
@@ -25,10 +25,13 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 
 ## 📚 O que estou estudando
 
-🧠 Lógica de Programação  
-🐍 Programação em Python  
-🌐 Desenvolvimento Web  
-📊 Ferramentas Digitais  
+> 🧠 Lógica de Programação  
+> 🐍 Programação em Python  
+> 🐘 Programação em PHP
+> 🌐 Desenvolvimento Web  
+> 📊 Ferramentas Digitais 
+> 🗃️ Banco de Dados  
+
 
 ---
 
@@ -44,8 +47,8 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ## 📫 Contato
 
-💼 GitHub: https://github.com/waldaotto ------------
-📧 E-mail: josimar.menegat@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7
+💼 GitHub: https://github.com/waldaotto  
+📧 E-mail: josimar.menegat@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/waldair-otto-menegassi-47b0012b7  
 
 ---
