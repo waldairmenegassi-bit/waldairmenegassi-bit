@@ -43,9 +43,9 @@ Meu objetivo é seguir na carreira de tecnologia e continuar avançando cada vez
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Loja Virtual]([https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/mecanica-shop](https://github.com/waldairmenegassi-bit/e-loja.git))  
+📌 Projeto 1 – [Loja Virtual](https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/mecanica-shop](https://github.com/waldairmenegassi-bit/e-loja.git)  
 📌 Projeto 2 – [Atividades Python](https://github.com/waldairmenegassi-bit/programacao/tree/63a582ff965c7dabfd69ac0328e35506fce1e401/atividades-python)  
-📌 Projeto 3 – [Ache Bola]([https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/MVC%20Example](https://github.com/waldairmenegassi-bit/jogo-achebola.git))  
+📌 Projeto 3 – [Ache Bola](https://github.com/waldaotto/myprojetos/tree/4f43dde7a9c95d9f058dd04bcf785db503380b28/MVC%20Example](https://github.com/waldairmenegassi-bit/jogo-achebola.git)  
 
 ---
 
